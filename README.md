@@ -1,4 +1,4 @@
-# # PRACTICA 2 - ANALISIS ESTRUCTURAL DE PROTEINAS CON ALPHAFOLD
+# PRACTICA 2 - ANALISIS ESTRUCTURAL DE PROTEINAS CON ALPHAFOLD
 
 **Asignatura:** Bioinformatica  
 **Grado:** Bioinformatica / Ciencia e Ingenieria de Datos  
